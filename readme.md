@@ -1,6 +1,6 @@
 # Lumen REST example
 
-A small example service set up with mongo db and RESTful resource structure.
+A small example service set up with mongo db and RESTful resource structure that shows pagination and some basic hypermedia concepts.
 
 ## How to run
 
